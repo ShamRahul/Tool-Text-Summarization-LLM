@@ -1,4 +1,4 @@
-# 🦜🔗 Text Summarization Prototyping Tool-LLM
+# 🦜🔗 LLM-Text Summarization Prototyping Tool
 
 This project serves as a quick prototyping tool for text summarization, leveraging the power of OpenAI, LangChain, and Streamlit. It is designed to be user-friendly, allowing users to easily input text and receive summarized responses, making it a valuable tool for those looking to experiment with text summarization models.
 
